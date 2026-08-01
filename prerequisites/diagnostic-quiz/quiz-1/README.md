@@ -16,10 +16,11 @@ Solve $\frac{a^3+b^3}{c^2+d^2}$ where $a=2$, $b=-2$, $c=4$, $d=-2$. <br>
 ### Question 1.
 ```math
 \begin{aligned}
-    \frac{a^3+b^3}{c^2+d^2} &= \frac{(2)^3+(-2)^3}{(4)^2+(-2)^2}
-    &= \frac{8+(-8)}{16+4}
-    &= \frac{0}{20}
-    &= 0
-    \therefore{E}
+    \frac{a^3+b^3}{c^2+d^2}
+    &= \frac{2^3+(-2)^3}{4^2+(-2)^2} \\
+    &= \frac{8+(-8)}{16+4} \\
+    &= \frac{0}{20} \\
+    &= 0 \\
+    \therefore\ E
 \end{aligned}
 ```
