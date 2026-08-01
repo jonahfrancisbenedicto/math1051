@@ -38,7 +38,7 @@ Simplify $\frac{x^8x^{-2}}{x^{-6}x^2}$. <br>
 ```math
 \begin{aligned}
     \frac{x^8x^{-2}}{x^{-6}x^2} &= \frac{x^6}{x^{-4}} \\
-    &= \frac{x^{10}} \\
+    &= x^{10} \\
     \therefore\ F
 \end{aligned}
 ```
