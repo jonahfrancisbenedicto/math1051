@@ -29,6 +29,15 @@ Expand and simplify $x(x+y)(x-y)$. <br>
 (E) $x^3 -xy^2$ <br>
 (F) None of the above
 
+### Question 4.
+Transpose $C=\frac{5}{9}(F-32)$ for $F$. <br>
+(A) $F=\frac{9}{5}C-32$ <br>
+(B) $F=\frac{5}{9}C-32$ <br>
+(C) $F=\frac{9}{5}C+32$ <br>
+(D) $F=\frac{5}{9}C+32$ <br>
+(E) $F=32-\frac{9}{5}C <br>
+(F) None of the above
+
 ## Answers
 
 ### Question 1.
@@ -58,5 +67,16 @@ Expand and simplify $x(x+y)(x-y)$. <br>
     x(x+y)(x-y) &= x(x^2-y^2) \\
     &= x^3-xy^2 \\
     \therefore\ E
+\end{aligned}
+```
+
+### Question 4.
+```math
+\begin{aligned}
+    C &= \frac{5}{9}(F-32) \\
+    \frac{9}{5}C &= F-32 \\
+    \frac{9}{5}C+32 &= F \\
+    F &= \frac{9}{5}C+32 \\
+    \therefore\ C
 \end{aligned}
 ```
