@@ -1,6 +1,8 @@
 # Calculus &amp; Linear Algebra I (MATH1051)
 
 ## Table of Contents
+- [Course Overview](./course-overview)
+- [Prerequisites](./prerequisites)
 
 ## Contributions
 This repository is maintained by @jonahfrancisbenedicto
