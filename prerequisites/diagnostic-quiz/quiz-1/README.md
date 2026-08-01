@@ -11,6 +11,15 @@ Solve $\frac{a^3+b^3}{c^2+d^2}$ where $a=2$, $b=-2$, $c=4$, $d=-2$. <br>
 (E) $0$ <br>
 (F) None of the above
 
+### Question 2.
+Simplify $\frac{x^8x^{-2}}{x^{-6}x^2}$. <br>
+(A) $x^2$ <br>
+(B) $x^{14}$ <br>
+(C) $x^{-2}$ <br>
+(D) $x^{-14}$ <br>
+(E) $x^{-10}$ <br>
+(F) None of the above
+
 ## Answers
 
 ### Question 1.
@@ -22,5 +31,14 @@ Solve $\frac{a^3+b^3}{c^2+d^2}$ where $a=2$, $b=-2$, $c=4$, $d=-2$. <br>
     &= \frac{0}{20} \\
     &= 0 \\
     \therefore\ E
+\end{aligned}
+```
+
+### Question 2.
+```math
+\begin{aligned}
+    \frac{x^8x^{-2}}{x^{-6}x^2} &= \frac{x^6}{x^{-4}} \\
+    &= \frac{x^{10}} \\
+    \therefore\ F
 \end{aligned}
 ```
