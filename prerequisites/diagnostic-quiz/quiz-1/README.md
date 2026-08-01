@@ -38,6 +38,15 @@ Transpose $C=\frac{5}{9}(F-32)$ for $F$. <br>
 (E) $F=32-\frac{9}{5}C <br>
 (F) None of the above
 
+### Question 5.
+Simplify $\frac{a}{2} \div \frac{b}{2} \times \frac{c}{2}$ where $a$, $b$, $c \neq 0$. <br>
+(A) $\frac{2ac}{4b}$ <br>
+(B) $\frac{ac}{2b}$ <br>
+(C) $\frac{abc}{8}$ <br>
+(D) $\frac{ac}{6b}$ <br>
+(E) $\frac{2a}{bc}$ <br>
+(F) None of the above
+
 ## Answers
 
 ### Question 1.
@@ -80,3 +89,14 @@ Transpose $C=\frac{5}{9}(F-32)$ for $F$. <br>
     \therefore\ C
 \end{aligned}
 ```
+
+### Question 5.
+```math
+\begin{aligned}
+    \frac{a}{2} \div \frac{b}{2} \times \frac{c}{2} &= \frac{a}{2} \times \frac{2}{b} \times \frac{c}{2} \\
+    &= \frac{2ac}{4b} \\
+    &= \frac{ac}{2b} \\
+    \therefore\ B
+\end{aligned}
+```
+
