@@ -60,7 +60,7 @@ Solve simultaneous equations: $x+y=5$ and $3x+2y=6$. <br>
 
 ### Question 9.
 Determine the angle of elevation: 12m tall tree that has a 20m shadow. <br>
-Hint: $\arccos{\frac{12}{20}}\approx 15\degree$, $\arcsin{\frac{12}{20}}\approx 37\circ$ and $\arctan{\frac{12}{20}}\approx 31\circ$.
+Hint: $\arccos{\frac{12}{20}}\approx 15\degree$, $\arcsin{\frac{12}{20}}\approx 37\degree$ and $\arctan{\frac{12}{20}}\approx 31\degree$.
 
 ### Question 10.
 Determine the equation of the line parallel to the line $y=-3x+1$ and point $(6,-15)$.
