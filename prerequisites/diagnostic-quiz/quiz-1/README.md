@@ -47,6 +47,15 @@ Simplify $\frac{a}{2} \div \frac{b}{2} \times \frac{c}{2}$ where $a$, $b$, $c \n
 (E) $\frac{2a}{bc}$ <br>
 (F) None of the above
 
+### Question 6.
+Pick true statement. <br>
+(A) $\frac{2}{x} + \frac{2}{y} = \frac{4}{x+y}$ <br>
+(B) $\frac{2}{x} - \frac{2}{y} = \frac{2}{x-y}$ <br>
+(C) $\frac{2}{x} \div \frac{1}{2y} = \frac{y}{x}$ <br>
+(D) $\frac{2}{x} - \frac{2}{y} = \frac{0}{x-y}$ <br>
+(E) $\frac{2}{x} \div \frac{2}{y} = \frac{y}{x}$ <br>
+(F) None of the above
+
 ## Answers
 
 ### Question 1.
@@ -97,6 +106,17 @@ Simplify $\frac{a}{2} \div \frac{b}{2} \times \frac{c}{2}$ where $a$, $b$, $c \n
     &= \frac{2ac}{4b} \\
     &= \frac{ac}{2b} \\
     \therefore\ B
+\end{aligned}
+```
+
+### Question 6. 
+```math
+\begin{aligned}
+    \frac{2}{x} \div \frac{2}{y} &= \frac{y}{x} \\
+    \frac{2}{x} \times \frac{y}{2} &= \frac{y}{x} \\
+    \frac{2y}{2x} &= \frac{y}{x} \\
+    \frac{y}{x} &= \frac{y}{x} \\
+    \therefore\ E
 \end{aligned}
 ```
 
