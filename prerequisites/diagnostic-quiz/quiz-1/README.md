@@ -176,6 +176,6 @@ Solve for $x$: $3+\frac{x}{2}=-5$
     3+\frac{x}{2} &= -5 \\
     \frac{x}{2} &= -8 \\
     x &= -16 \\
-    \therefore \-16
+    \therefore\ -16
 \end{aligned}
 ```
