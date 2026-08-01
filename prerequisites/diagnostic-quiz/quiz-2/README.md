@@ -28,7 +28,8 @@ Solve $\log_3{27}+\ln{e^2}$.
 
 ### Question 5.
 Match the equation with the graph.
-![Graph](./graph01.png)
+
+![Graph](./graphs01.png)
 
 ### Question 6.
 Factorise $x^2-16x+64$. <br>
@@ -50,16 +51,16 @@ Determine roots for the quadratic equation: $y=x^2+4x+3$. <br>
 
 ### Question 8.
 Solve simultaneous equations: $x+y=5$ and $3x+2y=6$. <br>
-(A) $x=4$, $y=1$
-(B) $x=2$, $y-3$
-(C) $x=5$, $y=0$
-(D) $x=3$, $y=2$
-(E) $x=9$, $y=-4$
+(A) $x=4$, $y=1$ <br>
+(B) $x=2$, $y-3$ <br>
+(C) $x=5$, $y=0$ <br>
+(D) $x=3$, $y=2$ <br>
+(E) $x=9$, $y=-4$ <br>
 (F) None of the above
 
 ### Question 9.
 Determine the angle of elevation: 12m tall tree that has a 20m shadow. <br>
-Hint: $\arccos{\frac{12}{20}}\approx 15\circ$, $\arcsin{\frac{12}{20}}\approx 37\circ$ and $\arctan{\frac{12}{20}}\approx 31\circ$.
+Hint: $\arccos{\frac{12}{20}}\approx 15\degree$, $\arcsin{\frac{12}{20}}\approx 37\circ$ and $\arctan{\frac{12}{20}}\approx 31\circ$.
 
 ### Question 10.
 Determine the equation of the line parallel to the line $y=-3x+1$ and point $(6,-15)$.
