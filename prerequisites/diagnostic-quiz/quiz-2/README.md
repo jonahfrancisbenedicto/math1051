@@ -75,11 +75,17 @@ Determine the equation of the line parallel to the line $y=-3x+1$ and point $(6,
     5 &= -12 + c \\
     17 &= c \\
     c &= 17 \\
-    \therefore \ y = -4x + 17 
+    y &= -4x + 17 \\
+    \therefore \ A
 \end{aligned}
 ```
 
 ### Question 2.
+```math
+\begin{aligned}
+
+\end{aligned}
+```
 
 ### Question 3.
 
