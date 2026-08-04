@@ -149,7 +149,7 @@ Find the solution for the simultaneous equations $0=5x-y-4$ and $x+2y=14$.
 ```math
 \begin{aligned}
     \text{(1)} 0=5x-y-4 \quad \text{(2)} x+2y=14 \\
-    \text{(1) y=5x-4 \\
+    \text{(1)} y=5x-4 \\
     \text{Subtitute (1) into (2)} \\
     x+2(5x-4)=14 \\
     x+10x-8=14 \\
