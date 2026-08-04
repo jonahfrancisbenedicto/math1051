@@ -3,6 +3,7 @@
 ## Table of Contents
 - [Course Overview](./course-overview)
 - [Prerequisites](./prerequisites)
+- [Week 1](./week-1)
 
 ## Contributions
 This repository is maintained by @jonahfrancisbenedicto
