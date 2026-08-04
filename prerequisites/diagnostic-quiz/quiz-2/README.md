@@ -137,8 +137,8 @@ Determine the equation of the line parallel to the line $y=-3x+1$ and point $(6,
     y &= x^2+4x+3 \\
     y &= (x+3)(x+1) \\
     0 &= (x+3)(x+1) \\
-    x+3 = 0, \quad x+1 = 0 \\
-    x = -3, \quad x=-1 \\
+    x+3 = 0, &\quad x+1 = 0 \\
+    x = -3, &\quad x=-1 \\
     \therefore \ C
 \end{aligned}
 ```
@@ -146,7 +146,11 @@ Determine the equation of the line parallel to the line $y=-3x+1$ and point $(6,
 ### Question 8.
 ```math
 \begin{aligned}
-
+\text{(1)} x+y=5 & \quad \text{(2)} 3x+2y=6 \\
+\text{(1)} x=y-5 & \\
+\text{Substitute (1) & into (2)}\\
+3(y-5)+2y &= 6 
+3y
 \end{aligned}
 ```
 
