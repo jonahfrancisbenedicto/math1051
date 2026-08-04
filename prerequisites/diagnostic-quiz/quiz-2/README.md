@@ -74,7 +74,7 @@ Determine the equation of the line parallel to the line $y=-3x+1$ and point $(6,
     5 &= -4(3) + c \\
     5 &= -12 + c \\
     17 &= c \\
-    c &= 17 \\
+    c &= 17 \\ \\
     y &= -4x + 17 \\
     \therefore \ A
 \end{aligned}
@@ -91,19 +91,28 @@ Determine the equation of the line parallel to the line $y=-3x+1$ and point $(6,
 ```math
 \begin{aligned}
     m &= \frac{y_2-y_1}{x_2-x_1} \\
-    m &= \frac{7-1}{2-1} \\
-    m &= \frac{6}{1} \\
-    m &= 6 \\
+    &= \frac{7-1}{2-1} \\
+    &= \frac{6}{1} \\
+    &= 6 \\ \\
     y &= mx + c \\
     1 &= 6(1) + c \\
     1 &= 6 + c \\
     -5 &= c \\
-    c &= -5 \\
+    c &= -5 \\ \\
     \therefore \ y = 6x - 5
 \end{aligned}
 ```
 
 ### Question 4.
+```math
+\begin{aligned}
+    \log_3{27} + \ln{e^2} &= \log_3{3^3} + 2\ln{e} \\
+    &= 3\log_3{3} + 2 \\
+    &= 3 + 2 \\
+    &= 5 \\
+    \therefore \ 5
+\end{aligned}
+```
 
 ### Question 5.
 
