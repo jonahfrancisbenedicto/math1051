@@ -68,6 +68,16 @@ Determine the equation of the line parallel to the line $y=-3x+1$ and point $(6,
 ## Answers
 
 ### Question 1.
+```math
+\begin{aligned}
+    y &= mx + c \\
+    5 &= -4(3) + c \\
+    5 &= -12 + c \\
+    17 &= c \\
+    c &= 17 \\
+    \therefore \ y = -4x + 17 
+\end{aligned}
+```
 
 ### Question 2.
 
