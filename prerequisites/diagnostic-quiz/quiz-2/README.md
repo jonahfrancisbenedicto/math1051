@@ -74,7 +74,7 @@ Determine the equation of the line parallel to the line $y=-3x+1$ and point $(6,
     5 &= -4(3) + c \\
     5 &= -12 + c \\
     17 &= c \\
-    c &= 17 \\ \\
+    c &= 17 \\ 
     y &= -4x + 17 \\
     \therefore \ A
 \end{aligned}
@@ -92,13 +92,12 @@ Determine the equation of the line parallel to the line $y=-3x+1$ and point $(6,
 \begin{aligned}
     m &= \frac{y_2-y_1}{x_2-x_1} \\
     &= \frac{7-1}{2-1} \\
-    &= \frac{6}{1} \\
-    &= 6 \\ \\
+    &= 6 \\
     y &= mx + c \\
     1 &= 6(1) + c \\
     1 &= 6 + c \\
     -5 &= c \\
-    c &= -5 \\ \\
+    c &= -5 \\ 
     \therefore \ y = 6x - 5
 \end{aligned}
 ```
@@ -115,12 +114,41 @@ Determine the equation of the line parallel to the line $y=-3x+1$ and point $(6,
 ```
 
 ### Question 5.
+1. $C$
+2. $A$
+3. $M$
+4. $D$
+5. $G$
+6. $N$
+7. $P$
+8. $I$
 
 ### Question 6.
+```math
+\begin{aligned}
+    x^2-16x+64 &= (x-8)(x-8) \\
+    \therefore \ D
+\end{aligned}
+```
 
 ### Question 7.
+```math
+\begin{aligned}
+    y &= x^2+4x+3 \\
+    y &= (x+3)(x+1) \\
+    0 &= (x+3)(x+1) \\
+    x+3 = 0, \quad x+1 = 0 \\
+    x = -3, \quad x=-1 \\
+    \therefore \ C
+\end{aligned}
+```
 
 ### Question 8.
+```math
+\begin{aligned}
+
+\end{aligned}
+```
 
 ### Question 9.
 
