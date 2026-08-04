@@ -161,5 +161,20 @@ Determine the equation of the line parallel to the line $y=-3x+1$ and point $(6,
 ```
 
 ### Question 9.
+```math
+\begin{aligned}
+    \therefore \ 31\degree
+\end{aligned}
+```
 
 ### Question 10.
+```math
+\begin{aligned}
+    y &= -3x+c \\
+    -16 &= -3(6) + c\\
+    -16 &= -18 + c\\
+    2 &= c \\
+    c &= 2 \\
+    \therefore \ y = -3x + 2
+\end{aligned}
+```
