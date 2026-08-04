@@ -29,7 +29,7 @@ Solve $\log_3{27}+\ln{e^2}$.
 ### Question 5.
 Match the equation with the graph.
 
-![Graph](./graphs01.png)
+![Graph](./graph1.png)
 
 ### Question 6.
 Factorise $x^2-16x+64$. <br>
@@ -83,7 +83,7 @@ Determine the equation of the line parallel to the line $y=-3x+1$ and point $(6,
 ### Question 2.
 ```math
 \begin{aligned}
-
+    \therefore \ D
 \end{aligned}
 ```
 
