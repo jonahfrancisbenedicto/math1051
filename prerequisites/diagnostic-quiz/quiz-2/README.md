@@ -88,6 +88,20 @@ Determine the equation of the line parallel to the line $y=-3x+1$ and point $(6,
 ```
 
 ### Question 3.
+```math
+\begin{aligned}
+    m &= \frac{y_2-y_1}{x_2-x_1} \\
+    m &= \frac{7-1}{2-1} \\
+    m &= \frac{6}{1} \\
+    m &= 6 \\
+    y &= mx + c \\
+    1 &= 6(1) + c \\
+    1 &= 6 + c \\
+    -5 &= c \\
+    c &= -5 \\
+    \therefore \ y = 6x - 5
+\end{aligned}
+```
 
 ### Question 4.
 
