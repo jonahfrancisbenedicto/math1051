@@ -24,8 +24,64 @@ Factorise $d^2-14d+49$. <br>
 (D) $(d-49)(d-1)$
 
 ### Question 4.
+Factorise $r^2-49$. <br>
+(A) $(r-7)(r+7)$ <br>
+(B) $(r+7)(r+7)$ <br>
+(C) $(r-7)(r-7)$ <br>
+(D) $(r-7)(r+9)$ 
+
+### Question 5.
+Factorise $k^2-16h^2$. <br>
+(A) $(k+4h)(k+4h)$ <br>
+(B) $(k-4h^2)(k+4)$ <br>
+(C) $h^2(k+4)(k-4)$ <br>
+(D) $(k+4h)(k-4h)$
+
+### Question 6.
+Solve $3z^2+3z-6=0$. <br>
+(A) $z=1$ or $z=-2$ <br>
+(B) $z=1$ or $z=2$ <br>
+(C) $z=3$ or $z=-2$ <br>
+(D) $z=3$ or $z=2$
+
+### Question 7.
+Solve $3x^2-x-3=0$. <br>
+(A) $[1 \pm \sqrt{37}] / 6$ <br>
+(B) $[1 \pm \sqrt{-35}] / 6$ <br>
+(C) $[-1 \pm \sqrt{37}] / 6$ <br>
+(D) $[-1 \pm \sqrt{37}] / 6$
+
+### Question 8.
+Factorise $x^2-x-12$. <br>
+(A) $(x+3)(x-4)$ <br>
+(B) $(x-3)(x+4)$ <br>
+(C) $(x+2)(x-6)$ <br>
+(D) $(x-2)(x+6)$
+
+### Question 9.
+Determine the axis of symmetry and the coordinates of the vertex for $y=4x^2+5x-1$. <br>
+(A) $x=\frac{5}{8}; \text{vertex}:(\frac{5}{8},4\frac{5}{8})$ <br>
+(B) $x=\frac{5}{8}; \text{vertex}:(\frac{5}{8},3\frac{11}{16}$ <br>
+(C) $x=-\frac{5}{8}; \text{vertex}:(-\frac{5}{8},-5\frac{11}{16}$ <br>
+(D) $x=-\frac{5}{8}; \text{vertex}:(-\frac{5}{8},-2\frac{9}{16}$
+
+### Question 10.
+Determine the graph of the equation: $h(t)=-16t^2+39$.
+![Graphs](image.png)
 
 ## Answers
 
 ### Question 1.
+```math
+\begin{aligned}
+    \frac{x^2-2x-24}{x^2-5x-36} = \frac{(x+
+\end{aligned}
+```
 
+
+### Question 2.
+```math
+\begin{aligned}
+
+\end{aligned}
+```
