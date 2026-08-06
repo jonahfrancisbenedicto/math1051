@@ -66,7 +66,7 @@ Determine the axis of symmetry and the coordinates of the vertex for $y=4x^2+5x-
 (D) $x=-\frac{5}{8}; \text{vertex}:(-\frac{5}{8},-2\frac{9}{16})$
 
 ### Question 10.
-Determine the graph of the equation: $h(t)=-16t^2+39$.
+Determine the graph of the equation: $h(t)=-16t^2+39$. <br>
 ![Graphs](image.png)
 
 ## Answers
@@ -160,7 +160,7 @@ Determine the graph of the equation: $h(t)=-16t^2+39$.
 \begin{aligned}
 x&=-\frac{b}{2a} \\
 &=-\frac{5}{2*4} \\
-&=-\frac{5}{8}
+&=-\frac{5}{8} \\
 y&=4(-\frac{5}{8})^2+5(-\frac{5}{8})-1 \\
 &=4(\frac{25}{64})-\frac{25}{8}-1 \\
 &=\frac{25}{16}-\frac{25}{4}-1 \\
@@ -169,4 +169,9 @@ y&=4(-\frac{5}{8})^2+5(-\frac{5}{8})-1 \\
 &=-5\frac{11}{16} \\
 \therefore \ C
 \end{aligned}
+```
+
+### Question 10.
+```math
+\therefore \ B
 ```
