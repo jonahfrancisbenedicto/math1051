@@ -61,9 +61,9 @@ Factorise $x^2-x-12$. <br>
 ### Question 9.
 Determine the axis of symmetry and the coordinates of the vertex for $y=4x^2+5x-1$. <br>
 (A) $x=\frac{5}{8}; \text{vertex}:(\frac{5}{8},4\frac{5}{8})$ <br>
-(B) $x=\frac{5}{8}; \text{vertex}:(\frac{5}{8},3\frac{11}{16}$ <br>
-(C) $x=-\frac{5}{8}; \text{vertex}:(-\frac{5}{8},-5\frac{11}{16}$ <br>
-(D) $x=-\frac{5}{8}; \text{vertex}:(-\frac{5}{8},-2\frac{9}{16}$
+(B) $x=\frac{5}{8}; \text{vertex}:(\frac{5}{8},3\frac{11}{16})$ <br>
+(C) $x=-\frac{5}{8}; \text{vertex}:(-\frac{5}{8},-5\frac{11}{16})$ <br>
+(D) $x=-\frac{5}{8}; \text{vertex}:(-\frac{5}{8},-2\frac{9}{16})$
 
 ### Question 10.
 Determine the graph of the equation: $h(t)=-16t^2+39$.
@@ -125,8 +125,8 @@ Determine the graph of the equation: $h(t)=-16t^2+39$.
     3z^2+3z-6 &= 0
     3(z^2+z-2) &= 0 \\
     3(z+2)(z-1) &= 0 \\
-    z+2=0 and z-1=0 \\
-    z=-2 and z=1 \\
+    z+2=0 \text{and} z-1=0 \\
+    z=-2 \text{and} z=1 \\
     \therefore \ A
 \end{aligned}   
 ```
@@ -144,5 +144,29 @@ Determine the graph of the equation: $h(t)=-16t^2+39$.
     x-\frac{1}{6}&=\pm\frac{\sqrt{37}}{6} \\
     x&=\pm\frac{1+\sqrt{37}}{6} \\
     \therefore \ A
+\end{aligned}
+```
+
+### Question 8.
+```math
+\begin{aligned}
+    x^2-x-12 &= (x-4)(x+3) \\
+    \therefore \ A
+\end{aligned}
+```
+
+### Question 9.
+```math
+\begin{aligned}
+x&=-\frac{b}{2a} \\
+&=-\frac{5}{2*4} \\
+&=-\frac{5}{8}
+y&=4(-\frac{5}{8})^2+5(-\frac{5}{8})-1 \\
+&=4(\frac{25}{64})-\frac{25}{8}-1 \\
+&=\frac{25}{16}-\frac{25}{4}-1 \\
+&=\frac{25}{16}-\frac{100}{16}-\frac{16}{16} \\
+&=-\frac{91}{16} \\
+&=-5\frac{11}{16} \\
+\therefore \ C
 \end{aligned}
 ```
