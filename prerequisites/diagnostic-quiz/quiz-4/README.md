@@ -74,12 +74,27 @@ Determine the graph of the equation: $h(t)=-16t^2+39$.
 ### Question 1.
 ```math
 \begin{aligned}
-    \frac{x^2-2x-24}{x^2-5x-36} = \frac{(x+
+    \frac{x^2-2x-24}{x^2-5x-36} &= \frac{(x-6)(x+4)}{(x+4)(x-9)} \\
+    &= \frac{x-6}{x-9} \\
+    \therefore \ D
 \end{aligned}
 ```
 
 
 ### Question 2.
+```math
+\begin{aligned}
+    (x+6)(x-2)&=-7 \\
+    x^2+6x-2x-12&=-7 \\
+    x^2+4x-5&=0 \\
+    (x+5)(x-1)&=0 \\
+    x+5=0 \text{and} x-1=0 \\
+    x=-5 \text{and} x=1 \\
+    \therefore \ C
+\end{aligned}
+```
+
+### Question 3.
 ```math
 \begin{aligned}
 
