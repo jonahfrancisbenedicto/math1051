@@ -56,3 +56,8 @@ Solve $2^x\times8^{1-x}=\frac{1}{4}$.
 ## Answers
 
 ### Question 1.
+```math
+\begin{aligned}
+
+\end{aligned}
+```
