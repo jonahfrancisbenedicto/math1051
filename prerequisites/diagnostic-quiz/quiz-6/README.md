@@ -45,9 +45,9 @@ Solve $\log_x=0$. <br>
 (E) No real solutions
 
 ### Question 7.
-Solve $\ln{\sqrt^3{e}}$. <br>
+Solve $\ln{\sqrt[n]{e}}$. <br>
 (A) No solution <br>
-(B) $\sqrt^3{e}$ <br>
+(B) $\sqrt[n]{e}$ <br>
 (C) $e$ <br>
 (D) $3$ <br>
 (E) $\frac{1}{3}$
