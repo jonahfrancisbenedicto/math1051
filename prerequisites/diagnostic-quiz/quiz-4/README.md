@@ -97,6 +97,52 @@ Determine the graph of the equation: $h(t)=-16t^2+39$.
 ### Question 3.
 ```math
 \begin{aligned}
+    d^2-14d+49 &= (d-7)(d-7) \\
+    &= (d-7)^2 \\
+    \therefore \ B
+\end{aligned}
+```
 
+### Question 4. 
+```math
+\begin{aligned}
+    r^2-49 &=(r-7)(r+7) \\
+    \therefore \ A
+\end{aligned}
+```
+
+### Question 5.
+```math
+\begin{aligned}
+    k^2-16h^2 &= (k+4h)(k-4h) \\
+    \therefore \ D
+\end{aligned}
+```
+
+### Question 6.
+```math
+\begin{aligned}
+    3z^2+3z-6 &= 0
+    3(z^2+z-2) &= 0 \\
+    3(z+2)(z-1) &= 0 \\
+    z+2=0 and z-1=0 \\
+    z=-2 and z=1 \\
+    \therefore \ A
+\end{aligned}   
+```
+
+### Question 7.
+```math
+\begin{aligned}
+    3x^2-x-3&=0 \\
+    x^2-\frac{1}{3}x-1&=0 \\
+    x^2-\frac{1}{3}x&=1 \\
+    x^2-\frac{1}{3}x+(-\frac{\frac{1}{3}}{2})^2&=1+(-\frac{\frac{1}{3}}{2})^2 \\
+    x^2-\frac{1}{3}x+(-\frac{1}{6})^2&=1+(-\frac{1}{6})^2 \\
+    (x-\frac{1}{6})^2&=1+\frac{1}{36} \\
+    (x-\frac{1}{6})^2&=\frac{37}{36} \\
+    x-\frac{1}{6}&=\pm\frac{\sqrt{37}}{6} \\
+    x&=\pm\frac{1+\sqrt{37}}{6} \\
+    \therefore \ A
 \end{aligned}
 ```
